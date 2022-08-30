@@ -1,4 +1,3 @@
- Versão do template - não alterar
 AWSTemplateFormatVersion: "2010-09-09"
 
 # Descrição que será utilizada na stack
